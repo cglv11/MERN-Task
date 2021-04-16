@@ -1,0 +1,5 @@
+{
+    "presets": ["env", "react"]
+}
+
+//traduction of modern sintaxis from js (env) and react (jsx) 
